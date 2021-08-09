@@ -51,3 +51,6 @@ end
 #  Supervisores.Pila.push(5)
 # Supervisores.Pila.push(:add) // 5 + 5    //10
 #Y si ocurre un error en cualquier hijo se vuelve a levantar solo
+#----------SUPERVISORES PARTE 2 TERMINAL-------------#
+#Otra forma de declarar un hijo de un supervisor
+
